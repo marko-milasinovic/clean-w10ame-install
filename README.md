@@ -47,3 +47,7 @@ password: malte
 * https://simplednscrypt.org/
 * https://vpn.net/
 * https://www.qbittorrent.org/download.php
+
+## Optional
+* http://www.bsplayer.com/bsplayer-english/download.html
+* https://handbrake.fr/downloads.php
