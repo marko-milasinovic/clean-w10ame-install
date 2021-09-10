@@ -33,6 +33,7 @@ password: malte
 * https://docs.microsoft.com/en-us/sysinternals/downloads/
 * https://www.ghisler.com/download.htm
 * https://www.videolan.org/vlc/download-windows.html
+* https://github.com/mpv-player/mpv/releases
 * https://www.wireshark.org/#download
 * https://get.adobe.com/reader/
 
