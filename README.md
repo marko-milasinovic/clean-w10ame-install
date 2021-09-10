@@ -49,6 +49,7 @@ password: malte
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/
 * https://www.anaconda.com/products/individual
 * https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers
+* https://www.arduino.cc/en/software
 
 ## Peer clients:
 * https://simplednscrypt.org/
