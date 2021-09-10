@@ -45,6 +45,6 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://www.anaconda.com/products/individual
 
 ## Peer clients:
-https://simplednscrypt.org/
-https://vpn.net/
-https://www.qbittorrent.org/download.php
+* https://simplednscrypt.org/
+* https://vpn.net/
+* https://www.qbittorrent.org/download.php
