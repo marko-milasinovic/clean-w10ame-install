@@ -51,6 +51,7 @@ password: malte
 * https://www.anaconda.com/products/individual
 * https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers
 * https://www.arduino.cc/en/software
+* https://www.ltr-data.se/opencode.html/#ImDisk
 
 ## Expansion hardware apps
 * https://www.logitechg.com/en-us/innovation/g-hub.html
