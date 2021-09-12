@@ -12,13 +12,13 @@ username: user
 password: malte
 
 # Program list
-## Browsers:
+## Browsers
 * https://github.com/Eloston/ungoogled-chromium/releases
 * https://www.google.com/chrome/
 * https://vivaldi.com/download/
 * https://www.torproject.org/download/
 
-## Utilities:
+## Utilities
 * https://keepass.info/download.html
 * https://notepad-plus-plus.org/downloads/
 * https://www.revouninstaller.com/revo-uninstaller-free-download/
@@ -37,11 +37,11 @@ password: malte
 * https://www.wireshark.org/#download
 * https://get.adobe.com/reader/
 
-## Chat apps:
+## Chat apps
 * https://desktop.telegram.org/
 * https://discord.com/download
 
-## Programming:
+## Programming
 * https://www.virtualbox.org/
 * https://nodejs.org/en/download/
 * https://www.apachefriends.org/download.html
@@ -52,7 +52,11 @@ password: malte
 * https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers
 * https://www.arduino.cc/en/software
 
-## Peer clients:
+# Expansion hardware apps
+* https://www.logitechg.com/en-us/innovation/g-hub.html
+* https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html
+
+## Peer clients
 * https://simplednscrypt.org/
 * https://vpn.net/
 * https://www.qbittorrent.org/download.php
