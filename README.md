@@ -52,7 +52,7 @@ password: malte
 * https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers
 * https://www.arduino.cc/en/software
 
-# Expansion hardware apps
+## Expansion hardware apps
 * https://www.logitechg.com/en-us/innovation/g-hub.html
 * https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html
 
