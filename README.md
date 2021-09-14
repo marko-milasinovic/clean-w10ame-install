@@ -43,7 +43,7 @@ Abbreviations:
 * [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
 * [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
-* https://gitlab.com/inkscape/inkscape
+* [Inkscape](https://gitlab.com/inkscape/inkscape) (FOSS) - vector image editor
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
 
 ## Chat apps
