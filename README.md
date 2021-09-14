@@ -9,14 +9,14 @@ Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional b
 # Credentials
 Defaults - username: user | password: malte
 
+## Windows system alterations
+* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
+
 # Program list
 Abbreviations: 
 * FOSS - Free and Open-Source Software
 * Freeware - software, most often proprietary, that is distributed at no monetary cost to the end user
 * Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
-
-## Windows system alterations
-* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
 
 ## Browsers
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
