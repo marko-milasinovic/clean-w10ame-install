@@ -71,6 +71,9 @@ password: malte
 ## Windows system alterations
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
 
+## Documentation
+* https://xwiki.com/en/offerings/products/xwiki-standard#
+
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
 * https://handbrake.fr/downloads.php
