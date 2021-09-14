@@ -22,7 +22,7 @@ username: user | password: malte
 
 ## Utilities
 * [KeePass](https://keepass.info/download.html) - free, open source, light-weight password manager
-* https://notepad-plus-plus.org/downloads/
+* [Notepad++](https://notepad-plus-plus.org/downloads/) - free, open source code editor
 * https://www.revouninstaller.com/revo-uninstaller-free-download/
 * https://www.7-zip.org/download.html
 * https://www.cpuid.com/softwares/hwmonitor.html
