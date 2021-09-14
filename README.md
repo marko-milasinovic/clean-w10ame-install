@@ -76,7 +76,7 @@ username: user | password: malte
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
 
 ## Documentation
-* https://xwiki.com/en/offerings/products/xwiki-standard
+* (XWiki)[https://xwiki.com/en/offerings/products/xwiki-standard] - free & open source WebServer wiki
 
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
