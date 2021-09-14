@@ -82,9 +82,11 @@ Abbreviations:
 * [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
 
 ## Optional
-* http://www.bsplayer.com/bsplayer-english/download.html
-* https://handbrake.fr/downloads.php
-* https://github.com/NickeManarin/ScreenToGif
+* [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
+* [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
+  * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
+  * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
 * [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
 * [Rufus](https://github.com/pbatard/rufus/releases) - USB creation utility
 
