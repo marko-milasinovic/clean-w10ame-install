@@ -62,6 +62,17 @@ password: malte
 * https://vpn.net/
 * https://www.qbittorrent.org/download.php
 
+## Windows system alterations
+* [Custom HOST file](https://github.com/StevenBlack/hosts)
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
 * https://handbrake.fr/downloads.php
+* https://github.com/NickeManarin/ScreenToGif
+* [Rufus - USB creation utility](https://github.com/pbatard/rufus)
+
+## Additional info
+* [List of Windows Terminal Commands](https://ss64.com/nt/)
+* windows setup script https://github.com/Disassembler0/Win10-Initial-Setup-Script
+* https://github.com/files-community/Files
+* -- testing https://pc.wps.com/
+* -- testing https://github.com/chrdavis/SmartRename
