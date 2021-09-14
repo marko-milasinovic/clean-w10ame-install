@@ -34,7 +34,7 @@ Defaults - username: user | password: malte
 * https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 * https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 * https://docs.microsoft.com/en-us/sysinternals/downloads/
-* [Total Commander](https://www.ghisler.com/download.htm) - free & trusted file manager
+* [Total Commander](https://www.ghisler.com/download.htm) - free file manager
 * [VLC](https://www.videolan.org/vlc/download-windows.html) - free & open source multimedia player and framework
 * [MPV](https://github.com/mpv-player/mpv/releases) - free & open source optimised, simple media player
 * [WireShark](https://www.wireshark.org/#download) - free & open source network protocol analyzer
