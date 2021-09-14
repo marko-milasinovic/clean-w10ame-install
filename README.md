@@ -11,7 +11,7 @@ Spyware systems, which are abundant in Windows 10 by default, have not been disa
 Final image file size is 5.35 Gb.
  
 ## Credentials
-| username | password | key |
+| username | password | generic key |
 |:----:|:-----------:|:----:|
 user | malte | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 
