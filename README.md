@@ -77,8 +77,7 @@ Abbreviations:
 * [PasswordStore](https://www.passwordstore.org/) - by https://www.zx2c4.com/
 
 ## Windows system alterations
-* [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
-  * To modify your current hosts file, look for it in the following places and modify it with a text editor: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
+* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
 
 ## Documentation
 * [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
