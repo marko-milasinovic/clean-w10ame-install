@@ -35,33 +35,33 @@ Defaults - username: user | password: malte
 * https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 * https://docs.microsoft.com/en-us/sysinternals/downloads/
 * https://www.ghisler.com/download.htm
-* https://www.videolan.org/vlc/download-windows.html
-* https://github.com/mpv-player/mpv/releases
-* https://www.wireshark.org/#download
-* https://get.adobe.com/reader/
+* [VLC](https://www.videolan.org/vlc/download-windows.html) - free & open source multimedia player and framework
+* [MPV](https://github.com/mpv-player/mpv/releases) - free & open source optimised, simple media player
+* [WireShark](https://www.wireshark.org/#download) - free & open source network protocol analyzer
+* [Adobe Reader](https://get.adobe.com/reader/) - free, closed source pdf reader
 * https://gitlab.com/inkscape/inkscape
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
 
 ## Chat apps
-* https://desktop.telegram.org/
-* https://discord.com/download
+* [Telegram](https://desktop.telegram.org/) - unsecure chat app with phone contact synchronisation
+* [Discord](https://discord.com/download) - unsecure chat app with chat rooms
 
 ## Programming
 * [VirtualBox](https://www.virtualbox.org/) - x86 AMD64/Intel64 full virtualization
-* https://nodejs.org/en/download/
+* [NodeJS](https://nodejs.org/en/download/) - a JavaScript runtime built on Chrome's V8 JavaScript engine
 * https://www.apachefriends.org/download.html
 * https://www.jetbrains.com/idea/
 * https://www.jetbrains.com/webstorm/
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/
-* https://www.anaconda.com/products/individual
-* https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers
-* https://www.arduino.cc/en/software
-* https://www.ltr-data.se/opencode.html/#ImDisk
+* [Anaconda](https://www.anaconda.com/products/individual) - data science platform and package manager
+* [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - IDE mainly for Java Integrated Development Environment
+* [Arduino](https://www.arduino.cc/en/software) - free & open-source Arduino Software IDE
+* [ImDIsk](https://www.ltr-data.se/opencode.html/#ImDisk) - free & open-source virtual disk driver
 * [Anaconda3](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - package / environment manager,  Python3 distribution with 1,500+ open source packages
 
 ## Expansion hardware apps
-* https://www.logitechg.com/en-us/innovation/g-hub.html
-* https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html
+* [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) - propriatery Logitech software for peripherals
+* [Inte's bluetooth driver](https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html) - a bluetooth driver
 
 ## Peer clients / Security
 * [SimpleDNSCrypt](https://simplednscrypt.org/) - management tool for configuring the dnscrypt-proxy service (introduces latency)
@@ -75,7 +75,7 @@ Defaults - username: user | password: malte
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
 
 ## Documentation
-* (XWiki)[https://xwiki.com/en/offerings/products/xwiki-standard] - free & open source WebServer wiki
+* [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) - free & open source WebServer wiki
 
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
