@@ -16,7 +16,7 @@ Abbreviations:
 * Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
 
 ## Browsers
-* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) - free & open source browser without Google's libraries
+* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) (FOSS) - free & open source browser without Google's libraries
 * [Chrome](https://www.google.com/chrome/) - free & open source browser made by Google
 * [Vivaldi](https://vivaldi.com/download/) - customisable browser
 * [Tor](https://www.torproject.org/download/) - free & open source browser focused on anonymity and security
