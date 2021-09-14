@@ -18,6 +18,9 @@ password: malte
 * https://vivaldi.com/download/
 * https://www.torproject.org/download/
 
+### Browser extensions
+* https://gitlab.com/KevinRoebert/ClearUrls
+
 ## Utilities
 * https://keepass.info/download.html
 * https://notepad-plus-plus.org/downloads/
@@ -27,7 +30,7 @@ password: malte
 * https://ffmpeg.org/download.html
 * https://calibre-ebook.com/download_windows
 * https://crystalmark.info/en/download/
-* https://mkvtoolnix.download/downloads.html
+* https://gitlab.com/mbunkus/mkvtoolnix
 * https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 * https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 * https://docs.microsoft.com/en-us/sysinternals/downloads/
@@ -36,6 +39,8 @@ password: malte
 * https://github.com/mpv-player/mpv/releases
 * https://www.wireshark.org/#download
 * https://get.adobe.com/reader/
+* https://gitlab.com/inkscape/inkscape
+* -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
 
 ## Chat apps
 * https://desktop.telegram.org/
@@ -52,6 +57,7 @@ password: malte
 * https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers
 * https://www.arduino.cc/en/software
 * https://www.ltr-data.se/opencode.html/#ImDisk
+* [Anaconda3](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - package / environment manager,  Python3 distribution with 1,500+ open source packages
 
 ## Expansion hardware apps
 * https://www.logitechg.com/en-us/innovation/g-hub.html
@@ -64,6 +70,7 @@ password: malte
 
 ## Windows system alterations
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
+
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
 * https://handbrake.fr/downloads.php
@@ -73,6 +80,9 @@ password: malte
 ## Additional info
 * [List of Windows Terminal Commands](https://ss64.com/nt/)
 * windows setup script https://github.com/Disassembler0/Win10-Initial-Setup-Script
-* https://github.com/files-community/Files
+
 * -- testing https://pc.wps.com/
 * -- testing https://github.com/chrdavis/SmartRename
+
+## Rejected
+* [Custom Files gui](https://github.com/files-community/Files) - cannot be implemented due to removed MS store framework
