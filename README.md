@@ -11,7 +11,7 @@ Defaults - username: user | password: malte
 
 # Program list
 Abbreviations: 
-* FOSS - Free and open-source software
+* FOSS - Free and Open-Source Software
 * Freeware - software, most often proprietary, that is distributed at no monetary cost to the end user
 * Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
 
@@ -27,29 +27,29 @@ Abbreviations:
 * [ClearUrls](https://gitlab.com/KevinRoebert/ClearUrls) (FOSS) 
 
 ## Utilities
-* [KeePass](https://keepass.info/download.html) - free, open source light-weight password manager
-* [Notepad++](https://notepad-plus-plus.org/downloads/) - free, open source code editor
-* [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) - free, closed source advanced program uninstaller
-* [7-zip](https://www.7-zip.org/download.html) - free, open source file archiver & hash verifier
+* [KeePass](https://keepass.info/download.html) (FOSS) - light-weight password manager
+* [Notepad++](https://notepad-plus-plus.org/downloads/) (FOSS) - multifunctional code/text editor
+* [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) (Shareware) - advanced program uninstaller
+* [7-zip](https://www.7-zip.org/download.html) (FOSS) - file archiver with additional functions (eg. hash verification)
 * [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) - free, closed source general purpose hardware monitoring program
-* [ffmpeg](https://ffmpeg.org/download.html) - free, open source command line multimedia framework
-* [Calibre](https://calibre-ebook.com/download_windows) - free, open source e-book viewer & manager
-* [Crystalmark](https://crystalmark.info/en/download/) - free, open source benchmark software that measures the transfer speed of media data storage
-* [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) - free, open source gui for working with Matroska files
+* [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework
+* [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
+* [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
+* [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) (FOSS) - gui for working with Matroska files
 * https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 * https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 * https://docs.microsoft.com/en-us/sysinternals/downloads/
 * [Total Commander](https://www.ghisler.com/download.htm) - free file manager
-* [VLC](https://www.videolan.org/vlc/download-windows.html) - free & open source multimedia player and framework
-* [MPV](https://github.com/mpv-player/mpv/releases) - free & open source optimised, simple media player
-* [WireShark](https://www.wireshark.org/#download) - free & open source network protocol analyzer
-* [Adobe Reader](https://get.adobe.com/reader/) - free, closed source pdf reader
+* [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
+* [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
+* [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
+* [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
 * https://gitlab.com/inkscape/inkscape
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
 
 ## Chat apps
 * [Telegram](https://desktop.telegram.org/) - unsecure chat app with phone contact synchronisation
-* [Discord](https://discord.com/download) - unsecure chat app with chat rooms
+* [Discord](https://discord.com/download) (Shareware) - unsecure chat app with chat rooms
 
 ## Programming
 * [VirtualBox](https://www.virtualbox.org/) - x86 AMD64/Intel64 full virtualization
@@ -60,12 +60,12 @@ Abbreviations:
 * https://www.chiark.greenend.org.uk/~sgtatham/putty/
 * [Anaconda](https://www.anaconda.com/products/individual) - data science platform and package manager
 * [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - IDE mainly for Java Integrated Development Environment
-* [Arduino](https://www.arduino.cc/en/software) - free & open-source Arduino Software IDE
-* [ImDIsk](https://www.ltr-data.se/opencode.html/#ImDisk) - free & open-source virtual disk driver
+* [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
+* [ImDIsk](https://www.ltr-data.se/opencode.html/#ImDisk) (FOSS) - virtual disk driver
 * [Anaconda3](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - package / environment manager,  Python3 distribution with 1,500+ open source packages
 
 ## Expansion hardware apps
-* [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) - propriatery Logitech software for peripherals
+* [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) (Freeware) - propriatery Logitech software for peripherals
 * [Inte's bluetooth driver](https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html) - a bluetooth driver
 
 ## Peer clients / Security
@@ -80,13 +80,13 @@ Abbreviations:
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
 
 ## Documentation
-* [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) - free & open source WebServer wiki
+* [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
 
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
 * https://handbrake.fr/downloads.php
 * https://github.com/NickeManarin/ScreenToGif
-* [FogProject](https://fogproject.org/) - free open-source network computer cloning and management solution
+* [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
 * [Rufus](https://github.com/pbatard/rufus/releases) - USB creation utility
 
 ## Additional info
