@@ -5,9 +5,12 @@ magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020
 ```
 ## Excerp from [Archive.org's](https://archive.org/details/windows-10-ameliorated-1903) explanation regarding Windows 10 AME
 Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively. Spyware systems, which are abundant in Windows 10 by default, have not been disabled using group policy, registry entries or various other workarounds – they have been entirely removed and deleted from the system, on an executable-level. This includes Windows Update, and any related services intended to re-patch the system via what is essentially a universal backdoor. Core applications, such as the included Edge web-browser, Windows Media Player, Cortana, as well as any appx applications, have also been successfully eliminated. The total size of removed files is about 2 GB.
+size: 5.35 Gb
 
 # Credentials
-Defaults - username: user | password: malte
+| username | password | key |
+|:----:|:-----------:|:----:|
+user | malte | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 
 ## Windows system alterations
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
