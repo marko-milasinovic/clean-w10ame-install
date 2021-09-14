@@ -62,10 +62,13 @@ username: user | password: malte
 * https://www.logitechg.com/en-us/innovation/g-hub.html
 * https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html
 
-## Peer clients
-* https://simplednscrypt.org/
+## Peer clients / Security
+* [SimpleDNSCrypt](https://simplednscrypt.org/) - management tool for configuring the dnscrypt-proxy service (introduces latency)
 * [Hamachi](https://vpn.net/) - due to licensing changes, might be removed
-* https://www.qbittorrent.org/download.php
+* [QBitTorrent](https://www.qbittorrent.org/download.php) - a bittorrent client
+* [WireGuard](https://www.wireguard.com/) - fast, secure vpn tunnel
+* [GNU Privacy Guard](https://gnupg.org/) - free implementation of the OpenPGP standard, that allows you to encrypt and sign your data and communications
+* [PasswordStore](https://www.passwordstore.org/) - by https://www.zx2c4.com/
 
 ## Windows system alterations
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
