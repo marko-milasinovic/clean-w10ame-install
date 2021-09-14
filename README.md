@@ -22,9 +22,9 @@ Abbreviations:
 * [Tor](https://www.torproject.org/download/) (FOSS) - browser focused on anonymity and security, based on firefox
 
 ### Browser extensions
-* [UBlock Origin](https://github.com/gorhill/uBlock) (FOSS) 
-* [HTTPS Everywhere](https://www.eff.org/https-everywhere/) (FOSS) 
-* [ClearUrls](https://gitlab.com/KevinRoebert/ClearUrls) (FOSS) 
+* [UBlock Origin](https://github.com/gorhill/uBlock) (FOSS) - An efficient (ad) blocker for Chromium and Firefox
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere/) (FOSS) - encrypts your communications with many major websites
+* [ClearUrls](https://gitlab.com/KevinRoebert/ClearUrls) (FOSS) - based on the new WebExtensions technology, automatically removes tracking elements from URLs
 
 ## Utilities
 * [KeePass](https://keepass.info/download.html) (FOSS) - light-weight password manager
@@ -36,10 +36,9 @@ Abbreviations:
 * [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) (FOSS) - gui for working with Matroska files
-* https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
-* https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
-* https://docs.microsoft.com/en-us/sysinternals/downloads/
-* [Total Commander](https://www.ghisler.com/download.htm) - free file manager
+* [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (Propriatery) - Microsoft's advanced monitoring tool that shows real-time file system, Registry and process/thread activity
+* [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
+* [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
 * [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
 * [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
