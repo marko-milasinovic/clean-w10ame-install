@@ -15,6 +15,9 @@ Abbreviations:
 * Freeware - software, most often proprietary, that is distributed at no monetary cost to the end user
 * Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
 
+## Windows system alterations
+* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
+
 ## Browsers
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
 * [Chrome](https://www.google.com/chrome/) (Freeware) - made by Google, based on the Chromium engine
@@ -43,7 +46,6 @@ Abbreviations:
 * [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
 * [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
-* [Inkscape](https://gitlab.com/inkscape/inkscape) (FOSS) - vector image editor
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
 
 ## Chat apps
@@ -75,9 +77,6 @@ Abbreviations:
 * [GNU Privacy Guard](https://gnupg.org/) - free implementation of the OpenPGP standard, that allows you to encrypt and sign your data and communications
 * [PasswordStore](https://www.passwordstore.org/) - by https://www.zx2c4.com/
 
-## Windows system alterations
-* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
-
 ## Documentation
 * [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
 
@@ -91,9 +90,10 @@ Abbreviations:
 * [Rufus](https://github.com/pbatard/rufus/releases) (FOSS) - USB Formatting Utility
 
 ## Image manipulation
+* [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
+* [Inkscape](https://gitlab.com/inkscape/inkscape) (FOSS) - vector image editor
 * [Waifu2x Caffe](https://github.com/lltcggie/waifu2x-caffe) (FOSS) - image denoiser & upscaler (slow, best used with Nvidia GPU's)
   * [Waifu2x Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan/) (FOSS) - image denoiser & upscaler (faster but less accurate)
-* [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
 
 ## Additional info
 * [List of Windows Terminal Commands](https://ss64.com/nt/)
