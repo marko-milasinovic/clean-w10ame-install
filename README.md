@@ -53,10 +53,10 @@ Abbreviations:
 ## Programming
 * [VirtualBox](https://www.virtualbox.org/) - x86 AMD64/Intel64 full virtualization
 * [NodeJS](https://nodejs.org/en/download/) - a JavaScript runtime built on Chrome's V8 JavaScript engine
-* https://www.apachefriends.org/download.html
-* https://www.jetbrains.com/idea/
-* https://www.jetbrains.com/webstorm/
-* https://www.chiark.greenend.org.uk/~sgtatham/putty/
+* [XAMPP](https://www.apachefriends.org/download.html) - Apache distribution containing MariaDB, PHP, and Perl
+* [IntelliJ Idea](https://www.jetbrains.com/idea/) - an IDE for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
+* [WebStorm](https://www.jetbrains.com/webstorm/) - an IDE for JavaScript and related technologies
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) (FOSS) - an implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator
 * [Anaconda](https://www.anaconda.com/products/individual) - data science platform and package manager
 * [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - IDE mainly for Java Integrated Development Environment
 * [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
@@ -65,7 +65,7 @@ Abbreviations:
 
 ## Expansion hardware apps
 * [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) (Freeware) - propriatery Logitech software for peripherals
-* [Inte's bluetooth driver](https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html) - a bluetooth driver
+* [Intel's bluetooth driver](https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html) - a bluetooth driver
 
 ## Peer clients / Security
 * [SimpleDNSCrypt](https://simplednscrypt.org/) - management tool for configuring the dnscrypt-proxy service (introduces latency)
