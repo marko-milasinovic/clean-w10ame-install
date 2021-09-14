@@ -21,15 +21,15 @@ username: user | password: malte
 * https://gitlab.com/KevinRoebert/ClearUrls
 
 ## Utilities
-* [KeePass](https://keepass.info/download.html) - free, open source, light-weight password manager
+* [KeePass](https://keepass.info/download.html) - free, open source light-weight password manager
 * [Notepad++](https://notepad-plus-plus.org/downloads/) - free, open source code editor
-* https://www.revouninstaller.com/revo-uninstaller-free-download/
-* https://www.7-zip.org/download.html
-* https://www.cpuid.com/softwares/hwmonitor.html
-* https://ffmpeg.org/download.html
-* https://calibre-ebook.com/download_windows
-* https://crystalmark.info/en/download/
-* https://gitlab.com/mbunkus/mkvtoolnix
+* [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) - free, closed source advanced program uninstaller
+* [7-zip](https://www.7-zip.org/download.html) - free, open source file archiver & hash verifier
+* [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) - free, closed source general purpose hardware monitoring program
+* [ffmpeg](https://ffmpeg.org/download.html) - free, open source command line multimedia framework
+* [Calibre](https://calibre-ebook.com/download_windows) - free, open source e-book viewer & manager
+* [Crystalmark](https://crystalmark.info/en/download/) - free, open source benchmark software that measures the transfer speed of media data storage
+* [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) - free, open source gui for working with Matroska files
 * https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 * https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 * https://docs.microsoft.com/en-us/sysinternals/downloads/
@@ -64,20 +64,21 @@ username: user | password: malte
 
 ## Peer clients
 * https://simplednscrypt.org/
-* https://vpn.net/
+* [Hamachi](https://vpn.net/) - due to licensing changes, might be removed
 * https://www.qbittorrent.org/download.php
 
 ## Windows system alterations
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
 
 ## Documentation
-* https://xwiki.com/en/offerings/products/xwiki-standard#
+* https://xwiki.com/en/offerings/products/xwiki-standard
 
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
 * https://handbrake.fr/downloads.php
 * https://github.com/NickeManarin/ScreenToGif
-* [Rufus - USB creation utility](https://github.com/pbatard/rufus/releases)
+* [FogProject](https://fogproject.org/) - free open-source network computer cloning and management solution
+* [Rufus](https://github.com/pbatard/rufus/releases) - USB creation utility
 
 ## Additional info
 * [List of Windows Terminal Commands](https://ss64.com/nt/)
