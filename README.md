@@ -1,6 +1,5 @@
 # A checklist for my personal Windows 10 ameliorated install
-Windows 10 Ameliorated (build 1903)
-* https://ameliorated.info/index.html
+Windows 10 [Ameliorated (build 1903)](https://ameliorated.info/index.html)
 ```
 magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020-02-06%29.iso&tr=https%3a%2f%2f1337.abcvg.info%3a443%2fannounce
 ```
