@@ -10,6 +10,11 @@ Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional b
 Defaults - username: user | password: malte
 
 # Program list
+Abbreviations: 
+* FOSS - Free and open-source software
+* Freeware - software, most often proprietary, that is distributed at no monetary cost to the end user
+* Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
+
 ## Browsers
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) - free & open source browser without Google's libraries
 * [Chrome](https://www.google.com/chrome/) - free & open source browser made by Google
