@@ -34,7 +34,7 @@ Abbreviations:
 * [Notepad++](https://notepad-plus-plus.org/downloads/) (FOSS) - multifunctional code/text editor
 * [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) (Shareware) - advanced program uninstaller
 * [7-zip](https://www.7-zip.org/download.html) (FOSS) - file archiver with additional functions (eg. hash verification)
-* [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) - free, closed source general purpose hardware monitoring program
+* [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) (Shareware) - general purpose hardware monitoring program
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
 * [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) (FOSS) - gui for working with Matroska files
@@ -44,7 +44,7 @@ Abbreviations:
 * [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
 * [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
-* -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
+* -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) (FOSS) - Up to version v1.5.1 FOSS, later Freeware, note taking app
 
 ## Chat apps
 * [Telegram](https://desktop.telegram.org/) - unsecure chat app with phone contact synchronisation
@@ -102,8 +102,8 @@ Abbreviations:
 * [Hamachi](https://vpn.net/) - due to licensing changes, might be removed
 
 ## Additional info
-* [List of Windows Terminal Commands](https://ss64.com/nt/)
-* windows setup script https://github.com/Disassembler0/Win10-Initial-Setup-Script
+* List of [Windows Terminal Commands](https://ss64.com/nt/)
+* Windows [setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script)
 * -- testing https://pc.wps.com/
 * -- testing https://github.com/chrdavis/SmartRename
 
