@@ -12,13 +12,15 @@ username: user | password: malte
 
 # Program list
 ## Browsers
-* https://github.com/Eloston/ungoogled-chromium/releases
-* https://www.google.com/chrome/
-* https://vivaldi.com/download/
-* https://www.torproject.org/download/
+* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) - free & open source browser without Google's libraries
+* [Chrome](https://www.google.com/chrome/) - free & open source browser made by Google
+* [Vivaldi](https://vivaldi.com/download/) - customisable browser
+* [Tor](https://www.torproject.org/download/) - free & open source browser focused on anonymity and security
 
 ### Browser extensions
-* https://gitlab.com/KevinRoebert/ClearUrls
+* [UBlock Origin](https://github.com/gorhill/uBlock)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere/)
+* [ClearUrls](https://gitlab.com/KevinRoebert/ClearUrls)
 
 ## Utilities
 * [KeePass](https://keepass.info/download.html) - free, open source light-weight password manager
