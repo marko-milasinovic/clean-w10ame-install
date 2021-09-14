@@ -88,7 +88,12 @@ Abbreviations:
   * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
 * [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
-* [Rufus](https://github.com/pbatard/rufus/releases) - USB creation utility
+* [Rufus](https://github.com/pbatard/rufus/releases) (FOSS) - USB Formatting Utility
+
+## Image manipulation
+* [Waifu2x Caffe](https://github.com/lltcggie/waifu2x-caffe) (FOSS) - image denoiser & upscaler (slow, best used with Nvidia GPU's)
+  * [Waifu2x Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan/) (FOSS) - image denoiser & upscaler (faster but less accurate)
+* [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
 
 ## Additional info
 * [List of Windows Terminal Commands](https://ss64.com/nt/)
