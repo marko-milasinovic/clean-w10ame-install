@@ -46,9 +46,10 @@ Abbreviations:
 * [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) (FOSS) - Up to version v1.5.1 FOSS, later Freeware, note taking app
 
-## Chat apps
-* [Telegram](https://desktop.telegram.org/) - unsecure chat app with phone contact synchronisation
+## Communication
+* [Telegram](https://desktop.telegram.org/) (Shareware) - unsecure chat app with phone contact synchronisation
 * [Discord](https://discord.com/download) (Shareware) - unsecure chat app with chat rooms
+* [Claws Mail](https://claws-mail.org/win32/) (FOSS) - secure multiplatform mail client with OpenPGP implementation
 
 ## Programming
 * [VirtualBox](https://www.virtualbox.org/) - x86 AMD64/Intel64 full virtualization
