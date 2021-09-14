@@ -63,12 +63,12 @@ password: malte
 * https://www.qbittorrent.org/download.php
 
 ## Windows system alterations
-* [Custom HOST file](https://github.com/StevenBlack/hosts)
+* [Custom HOST file](https://github.com/StevenBlack/hosts#readme)
 ## Optional
 * http://www.bsplayer.com/bsplayer-english/download.html
 * https://handbrake.fr/downloads.php
 * https://github.com/NickeManarin/ScreenToGif
-* [Rufus - USB creation utility](https://github.com/pbatard/rufus)
+* [Rufus - USB creation utility](https://github.com/pbatard/rufus/releases)
 
 ## Additional info
 * [List of Windows Terminal Commands](https://ss64.com/nt/)
