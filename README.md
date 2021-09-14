@@ -49,7 +49,7 @@ Abbreviations:
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
 * [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
-* [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
+* [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - Adobe's pdf reader
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) (FOSS) - Up to version v1.5.1 FOSS, later Freeware, note taking app
 
 ## Communication
