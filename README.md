@@ -54,16 +54,18 @@ Abbreviations:
 * [VirtualBox](https://www.virtualbox.org/) - x86 AMD64/Intel64 full virtualization
 * [NodeJS](https://nodejs.org/en/download/) - a JavaScript runtime built on Chrome's V8 JavaScript engine
 * [XAMPP](https://www.apachefriends.org/download.html) - Apache distribution containing MariaDB, PHP, and Perl
-* [IntelliJ Idea](https://www.jetbrains.com/idea/) - an IDE for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
-* [WebStorm](https://www.jetbrains.com/webstorm/) - an IDE for JavaScript and related technologies
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) (FOSS) - an implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator
-
-* [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - IDE mainly for Java Integrated Development Environment
-* [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
 * [ImDIsk](https://www.ltr-data.se/opencode.html/#ImDisk) (FOSS) - virtual disk driver
 * [Anaconda3](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - package / environment manager,  Python3 distribution with 1,500+ open source packages
   * [Anaconda-alternate](https://www.anaconda.com/products/individual) - data science platform and package manager
 * [Rufus](https://github.com/pbatard/rufus/releases) (FOSS) - USB Formatting Utility
+
+## Integrated Development Environments (IDE)
+* [IntelliJ Idea](https://www.jetbrains.com/idea/) - for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
+* [WebStorm](https://www.jetbrains.com/webstorm/) - for JavaScript and related technologies
+* [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - mainly for Java Integrated Development Environment
+* [Visual Studio Code](https://code.visualstudio.com/Download) (Shareware) - Microsoft's project
+* [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
 
 ## Expansion hardware apps
 * [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) (Freeware) - propriatery Logitech software for peripherals
