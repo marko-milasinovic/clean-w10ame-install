@@ -35,15 +35,13 @@ Abbreviations:
 * [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) (Shareware) - advanced program uninstaller
 * [7-zip](https://www.7-zip.org/download.html) (FOSS) - file archiver with additional functions (eg. hash verification)
 * [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) - free, closed source general purpose hardware monitoring program
-* [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework
-* [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
+* [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) (FOSS) - gui for working with Matroska files
+* [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (Propriatery) - Microsoft's advanced monitoring tool that shows real-time file system, Registry and process/thread activity
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
 * [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
-* [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
-* [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
 * [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - pdf reader
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) - Up to this version (v1.5.1) open source note taking app
@@ -59,11 +57,13 @@ Abbreviations:
 * [IntelliJ Idea](https://www.jetbrains.com/idea/) - an IDE for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
 * [WebStorm](https://www.jetbrains.com/webstorm/) - an IDE for JavaScript and related technologies
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) (FOSS) - an implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator
-* [Anaconda](https://www.anaconda.com/products/individual) - data science platform and package manager
+
 * [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - IDE mainly for Java Integrated Development Environment
 * [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
 * [ImDIsk](https://www.ltr-data.se/opencode.html/#ImDisk) (FOSS) - virtual disk driver
 * [Anaconda3](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - package / environment manager,  Python3 distribution with 1,500+ open source packages
+  * [Anaconda-alternate](https://www.anaconda.com/products/individual) - data science platform and package manager
+* [Rufus](https://github.com/pbatard/rufus/releases) (FOSS) - USB Formatting Utility
 
 ## Expansion hardware apps
 * [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) (Freeware) - propriatery Logitech software for peripherals
@@ -71,7 +71,6 @@ Abbreviations:
 
 ## Peer clients / Security
 * [SimpleDNSCrypt](https://simplednscrypt.org/) - management tool for configuring the dnscrypt-proxy service (introduces latency)
-* [Hamachi](https://vpn.net/) - due to licensing changes, might be removed
 * [QBitTorrent](https://www.qbittorrent.org/download.php) - a bittorrent client
 * [WireGuard](https://www.wireguard.com/) - fast, secure vpn tunnel
 * [GNU Privacy Guard](https://gnupg.org/) - free implementation of the OpenPGP standard, that allows you to encrypt and sign your data and communications
@@ -79,28 +78,34 @@ Abbreviations:
 
 ## Documentation
 * [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
-
-## Optional
-* [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
-* [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
-  * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
-  * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
-* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
-* [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
-* [Rufus](https://github.com/pbatard/rufus/releases) (FOSS) - USB Formatting Utility
+* [Freeplane](https://github.com/freeplane/freeplane/releases) (FOSS) - tools for mind mapping
+* [OpenCRX](https://github.com/opencrx/opencrx) (FOSS) - Customer relationship management software
 
 ## Image manipulation
 * [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
 * [Inkscape](https://gitlab.com/inkscape/inkscape) (FOSS) - vector image editor
 * [Waifu2x Caffe](https://github.com/lltcggie/waifu2x-caffe) (FOSS) - image denoiser & upscaler (slow, best used with Nvidia GPU's)
+  * [Intel OpenVino](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html) - speeds up Waifu2x Caffe
   * [Waifu2x Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan/) (FOSS) - image denoiser & upscaler (faster but less accurate)
+
+## Video manipulation
+* [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
+* [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
+* [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
+  * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
+  * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
+
+## Optional
+* [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
+* [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
+* [Hamachi](https://vpn.net/) - due to licensing changes, might be removed
 
 ## Additional info
 * [List of Windows Terminal Commands](https://ss64.com/nt/)
 * windows setup script https://github.com/Disassembler0/Win10-Initial-Setup-Script
-
 * -- testing https://pc.wps.com/
 * -- testing https://github.com/chrdavis/SmartRename
 
-## Rejected
+## Incompatible
 * [Custom Files gui](https://github.com/files-community/Files) - cannot be implemented due to removed MS store framework
