@@ -42,7 +42,7 @@ Abbreviations:
 * [7-zip](https://www.7-zip.org/download.html) (FOSS) - file archiver with additional functions (eg. hash verification)
 * [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) (Shareware) - general purpose hardware monitoring program
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
-* [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework
+* [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework (a complete, cross-platform solution to record, convert and stream audio and video)
 * [MKVToolNix](https://gitlab.com/mbunkus/mkvtoolnix) (FOSS) - gui for working with Matroska files
 * [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (Propriatery) - Microsoft's advanced monitoring tool that shows real-time file system, Registry and process/thread activity
