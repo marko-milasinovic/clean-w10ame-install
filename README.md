@@ -3,11 +3,11 @@ Windows 10 [Ameliorated (build 1903)](https://ameliorated.info/index.html)
 ```
 magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020-02-06%29.iso&tr=https%3a%2f%2f1337.abcvg.info%3a443%2fannounce
 ```
-------------------------------------------
-.. contents:: Table of contents
-   :backlinks: top
-   :local:
-------------------------------------------
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
 ## Excerp from [Archive.org's](https://archive.org/details/windows-10-ameliorated-1903) explanation regarding Windows 10 AME
 Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively. 
  
