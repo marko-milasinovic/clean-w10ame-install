@@ -37,8 +37,6 @@ Final image file size is 5.35 Gb.
 |:----:|:-----------:|:----:|
 user | malte | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 
-<hr>
-
 ## Windows system alterations
 * [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
 
