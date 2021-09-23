@@ -3,8 +3,7 @@ Windows 10 [Ameliorated (build 1903)](https://ameliorated.info/index.html)
 ```
 magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020-02-06%29.iso&tr=https%3a%2f%2f1337.abcvg.info%3a443%2fannounce
 ```
-- [A checklist for my personal Windows 10 ameliorated install](#a-checklist-for-my-personal-windows-10-ameliorated-install)
-  * [Excerp from [Archive.org's](https://archive.org/details/windows-10-ameliorated-1903) explanation regarding Windows 10 AME](#excerp-from--archiveorg-s--https---archiveorg-details-windows-10-ameliorated-1903--explanation-regarding-windows-10-ame)
+##### Table of Contents
   * [Credentials](#credentials)
   * [Windows system alterations](#windows-system-alterations)
 - [Program list](#program-list)
