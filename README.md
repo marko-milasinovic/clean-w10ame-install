@@ -126,6 +126,7 @@ Abbreviations:
   * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
   * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
+* [Dandere2x](https://github.com/akai-katto/dandere2x/releases) (FOSS) - efficient video upscaler that uses waifu2x and video compression technology
 
 ## Optional
 * [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
