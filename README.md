@@ -48,6 +48,11 @@ Abbreviations:
 
 ## Browsers
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
+  * as per: https://avoidthehack.com/manually-install-extensions-ungoogled-chromium#1downloadchromiumwebstore
+  * download https://github.com/NeverDecaf/chromium-web-store/releases
+  * change chrome://flags/#extension-mime-request-handling to "Always prompt for ins"
+  * change chrome://extensions to enable Developer mode
+  * drag the downloaded chromium webstore, install addons as per usual
 * [Chrome](https://www.google.com/chrome/) (Freeware) - made by Google, based on the Chromium engine
 * [Vivaldi](https://vivaldi.com/download/) (Freeware) - customisable browser, based on the Chromium engine
 * [Tor](https://www.torproject.org/download/) (FOSS) - browser focused on anonymity and security, based on firefox
@@ -121,7 +126,7 @@ Abbreviations:
 
 ## Video manipulation
 * [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
-* [MPV](https://github.com/mpv-player/mpv/releases) (FOSS) - optimised and simple media player
+* [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) [MPV](https://community.chocolatey.org/packages/mpv) (FOSS) - optimised and simple media player [choco install mpv]
 * [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
   * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
   * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
@@ -131,9 +136,11 @@ Abbreviations:
 ## Optional
 * [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
 * [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
-* [Hamachi](https://vpn.net/) - due to licensing changes, might be removed
 
 <hr>
+
+## Removed
+* [Hamachi](https://vpn.net/) - due to licensing changes
 
 ## Additional info
 * List of [Windows Terminal Commands](https://ss64.com/nt/)
