@@ -129,7 +129,7 @@ Abbreviations:
 * [MPV - github](https://github.com/mpv-player/mpv) (FOSS) - optimised and simple media player
   * [MPV - chocolatey](https://community.chocolatey.org/packages/mpv) 
   * ```
-choco install mpv
+    choco install mpv
     ```
 * [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
   * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
