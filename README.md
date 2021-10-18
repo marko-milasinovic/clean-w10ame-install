@@ -128,7 +128,9 @@ Abbreviations:
 * [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
 * [MPV - github](https://github.com/mpv-player/mpv) (FOSS) - optimised and simple media player
   * [MPV - chocolatey](https://community.chocolatey.org/packages/mpv) 
-  * ```choco install mpv```
+  * ```
+choco install mpv
+    ```
 * [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
   * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
   * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
