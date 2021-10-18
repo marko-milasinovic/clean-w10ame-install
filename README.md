@@ -76,8 +76,8 @@ Abbreviations:
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
 * [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
-* [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - Adobe's pdf reader (it is more reliable in my experience)
 * -- testing [Notable](https://github.com/notable/notable/tree/v1.5.1) (FOSS) - Up to version v1.5.1 FOSS, later Freeware, note taking app
+* [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) (FOSS) - full-featured ebook manager
 
 ## Communication
 * [Telegram](https://desktop.telegram.org/) (Shareware) - unsecure chat app with phone contact synchronisation
@@ -137,6 +137,9 @@ Abbreviations:
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
 * [Dandere2x](https://github.com/akai-katto/dandere2x/releases) (FOSS) - efficient video upscaler that uses waifu2x and video compression technology
 
+## Music playback
+* [Clementine](https://github.com/clementine-player/Clementine/releases) (FOSS) - unless heavily customised, highly unoptimised video transcoder
+
 ## Optional
 * [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
 * [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
@@ -145,6 +148,7 @@ Abbreviations:
 
 ## Removed
 * [Hamachi](https://vpn.net/) - due to licensing changes
+* [Adobe Reader](https://get.adobe.com/reader/) (Shareware) - Adobe's pdf reader, too much bloat if not necessary
 
 ## Additional info
 * List of [Windows Terminal Commands](https://ss64.com/nt/)
