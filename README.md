@@ -136,7 +136,7 @@ Abbreviations:
 ## Optional
 * [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
 * [FogProject](https://fogproject.org/) (FOSS) - network computer cloning and management solution
-
+ 
 <hr>
 
 ## Removed
