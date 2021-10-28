@@ -1,4 +1,12 @@
-# A checklist for my personal Windows 10 ameliorated install
+
+<h2 align="center"> Windows 10 first setup </h2> 
+
+<h3 align="center"> A checklist for a complete first time windows ameliorated setup </h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-blue?logo=Windows&style=flat-square">
+</p>
+
 Windows 10 [Ameliorated (build 1903)](https://ameliorated.info/index.html)
 ```
 magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020-02-06%29.iso&tr=https%3a%2f%2f1337.abcvg.info%3a443%2fannounce
