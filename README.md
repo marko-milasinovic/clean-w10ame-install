@@ -50,7 +50,11 @@ Final image file size is 5.35 Gb.
 user | malte | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 
 ## Windows system alterations
-* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts*
+* [Custom HOST file](https://github.com/StevenBlack/hosts#readme) - Can be found in: *Windows: %SystemRoot%\system32\drivers\etc\hosts* (due to lag only ~16k entries)
+* Disabled QuickBoot
+* Performance display settings
+* Page file size (both min and max) = ram size + 256
+* in power settings max pci processor state = 99%
 
 # Program list
 Abbreviations: 
