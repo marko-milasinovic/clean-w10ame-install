@@ -9,19 +9,31 @@ magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020
   * [Windows system alterations](#windows-system-alterations)
 - [Program list](#program-list)
   * [Browsers](#browsers)
+    + [Optional](#optional)
     + [Browser extensions](#browser-extensions)
   * [Utilities](#utilities)
+    + [Optional](#optional-1)
   * [Communication](#communication)
   * [Programming](#programming)
+    + [Optional](#optional-2)
   * [Integrated Development Environments (IDE)](#integrated-development-environments--ide-)
-  * [Expansion hardware apps](#expansion-hardware-apps)
+    + [Optional](#optional-3)
+  * [Optional expansion hardware apps](#optional-expansion-hardware-apps)
   * [Peer clients / Security](#peer-clients---security)
+    + [Optional](#optional-4)
   * [Documentation](#documentation)
+    + [Optional](#optional-5)
   * [Image manipulation](#image-manipulation)
   * [Video manipulation](#video-manipulation)
-  * [Optional](#optional)
+    + [Optional](#optional-6)
+  * [Music playback](#music-playback)
+  * [Testing](#testing)
+  * [Removed](#removed)
   * [Additional info](#additional-info)
   * [Incompatible](#incompatible)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
