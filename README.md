@@ -55,6 +55,7 @@ user | malte | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 * Performance display settings
 * Page file size (both min and max) = ram size + 256
 * in power settings max pci processor state = 99%
+* regedit change for auto login functionality
 
 # Program list
 Abbreviations: 
