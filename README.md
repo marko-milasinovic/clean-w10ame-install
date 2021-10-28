@@ -89,15 +89,16 @@ Abbreviations:
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
 * [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework (a complete, cross-platform solution to record, convert and stream audio and video)
 * [MKVToolNix](https://mkvtoolnix.download/downloads.html#windows) (FOSS) - gui for working with Matroska files [gitlab](https://gitlab.com/mbunkus/mkvtoolnix)
-* [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (Propriatery) - Microsoft's advanced monitoring tool that shows real-time file system, Registry and process/thread activity
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
 * [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
-* [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
-* [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases) (FOSS) - full-featured ebook manager
+* [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf/releases/latest) (FOSS) - multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows 
 
 ### Optional
 * [Basic 7-zip](https://www.7-zip.org/download.html) (FOSS) - file archiver with additional functions (eg. hash verification)
+* [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
+* [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases/latest) (FOSS) - full-featured ebook manager, albeit slightly impractical
+* [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
  
 ## Communication
 * [Telegram](https://desktop.telegram.org/) (Shareware) - unsecure chat app with phone contact synchronisation
