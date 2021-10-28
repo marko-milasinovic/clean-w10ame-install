@@ -5,6 +5,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Support-Windows%20x64-blue?logo=Windows&style=flat-square">
+<img src="https://img.shields.io/github/license/marko-milasinovic/College-Subject-Tracker?style=flat-square">
 </p>
 
 Windows 10 [Ameliorated (build 1903)](https://ameliorated.info/index.html)
