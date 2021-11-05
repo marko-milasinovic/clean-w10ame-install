@@ -122,10 +122,9 @@ Abbreviations:
 * [Anaconda3](https://docs.anaconda.com/anaconda/install/hashes/win-3-64/) - package / environment manager,  Python3 distribution with 1,500+ open source packages
   * [Anaconda-alternate](https://www.anaconda.com/products/individual) - data science platform and package manager
 * [Rufus](https://github.com/pbatard/rufus/releases) (FOSS) - USB Formatting Utility
-* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (FOSS ?) - SSH, Telnet, and SFTP client, typically used for remote access to server computers over a network using the SSH protocol
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (FOSS ?) - SSH, Telnet, and SFTP client, typically used for remote access to server computers over a network using the SSH protocol along with an xterm terminal emulator
 
 ### Optional
-* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) (FOSS) - an implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator
 * [ImDIsk](https://www.ltr-data.se/opencode.html/#ImDisk) (FOSS) - virtual disk driver
 
 ## Integrated Development Environments (IDE)
@@ -171,7 +170,7 @@ Abbreviations:
   * ```
     choco install mpv
     ```
-* [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - unless heavily customised, highly unoptimised video transcoder
+* [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - video transcoder
   * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
   * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
 * [Dandere2x](https://github.com/akai-katto/dandere2x/releases/latest) (FOSS) - efficient video upscaler that uses waifu2x and video compression technology
