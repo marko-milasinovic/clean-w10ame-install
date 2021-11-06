@@ -73,7 +73,7 @@ Abbreviations:
 * Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
 
 ## Browsers
-* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium/releases) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
+* [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
   * as per: https://avoidthehack.com/manually-install-extensions-ungoogled-chromium#1downloadchromiumwebstore
   * download https://github.com/NeverDecaf/chromium-web-store/releases
   * change chrome://flags/#extension-mime-request-handling to "Always prompt for ins"
@@ -92,12 +92,15 @@ Abbreviations:
 
 ## Utilities
 * [KeePass](https://keepass.info/download.html) (FOSS) - light-weight password manager
-* [Notepad++](https://notepad-plus-plus.org/downloads/) (FOSS) - multifunctional code/text editor
-* [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) (Shareware) - advanced program uninstaller
+* [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest) (FOSS) - multifunctional code/text editor
+* [Revo Uninstaller](https://www.revouninstaller.com/start-freeware-download/) (Shareware) - advanced program uninstaller
 * [7-zip with Zstandard](https://github.com/mcmilk/7-Zip-zstd/releases/latest) - file archiver with additional functions (eg. hash verification)
 * [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) (Shareware) - general purpose hardware monitoring program
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
 * [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework (a complete, cross-platform solution to record, convert and stream audio and video)
+  * ```
+    choco install ffmpeg
+    ```
 * [MKVToolNix](https://mkvtoolnix.download/downloads.html#windows) (FOSS) - gui for working with Matroska files [gitlab](https://gitlab.com/mbunkus/mkvtoolnix)
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (Propriatery) - Microsoft's advanced monitoring tool that shows real-time file system, Registry and process/thread activity
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
@@ -105,7 +108,6 @@ Abbreviations:
 * [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf/releases/latest) (FOSS) - multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows 
 
 ### Optional
-* [Basic 7-zip](https://www.7-zip.org/download.html) (FOSS) - file archiver with additional functions (eg. hash verification)
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
 * [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases/latest) (FOSS) - full-featured ebook manager, albeit slightly impractical
 * [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
@@ -130,17 +132,18 @@ Abbreviations:
 ## Integrated Development Environments (IDE)
 * [IntelliJ Idea](https://www.jetbrains.com/idea/) - for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
 * [WebStorm](https://www.jetbrains.com/webstorm/) - for JavaScript and related technologies
-* [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - mainly for Java Integrated Development Environment
+* [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user) (FOSS\* ) - JavaScript, TypeScript, Node.js (C++, C#, Java, Python, PHP, Go, .NET, Unity)
 
 ### Optional
 * [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
-* [Visual Studio Code](https://code.visualstudio.com/Download) (Shareware) - Microsoft's project
+* [Eclipse](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers) - mainly for Java Integrated Development Environment
 
 ## Optional expansion hardware apps
 * [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) (Freeware) - propriatery Logitech software for peripherals
 * [Intel's bluetooth driver](https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html) - a bluetooth driver
 
-## Peer clients / Security
+## Security / Peer clients
+* [Thunderbird](https://www.thunderbird.net/en-US/download/) - an E-Mail client
 * [QBitTorrent](https://www.qbittorrent.org/download.php) - a bittorrent client
 
 ### Optional
@@ -157,11 +160,13 @@ Abbreviations:
 * [OpenCRX](https://github.com/opencrx/opencrx) (FOSS) - Customer relationship management software
 
 ## Image manipulation
-* [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
 * [Inkscape](https://gitlab.com/inkscape/inkscape) (FOSS) - vector image editor
 * [Waifu2x Caffe](https://github.com/lltcggie/waifu2x-caffe) (FOSS) - image denoiser & upscaler (slow, best used with Nvidia GPU's)
   * [Intel OpenVino](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html) - speeds up Waifu2x Caffe
   * [Waifu2x Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan/) (FOSS) - image denoiser & upscaler (faster but less accurate)
+
+### Optional
+* [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
 
 ## Video manipulation
 * [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
