@@ -14,7 +14,7 @@ magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020
 ```
 
 ##### Table of Contents
-  * [Credentials](#credentials)
+    * [Credentials](#credentials)
   * [Windows system alterations](#windows-system-alterations)
 - [Program list](#program-list)
   * [Browsers](#browsers)
@@ -28,13 +28,14 @@ magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020
   * [Integrated Development Environments (IDE)](#integrated-development-environments--ide-)
     + [Optional](#optional-3)
   * [Optional expansion hardware apps](#optional-expansion-hardware-apps)
-  * [Peer clients / Security](#peer-clients---security)
+  * [Security / Peer clients](#security---peer-clients)
     + [Optional](#optional-4)
   * [Documentation](#documentation)
     + [Optional](#optional-5)
   * [Image manipulation](#image-manipulation)
-  * [Video manipulation](#video-manipulation)
     + [Optional](#optional-6)
+  * [Video manipulation](#video-manipulation)
+    + [Optional](#optional-7)
   * [Music playback](#music-playback)
   * [Testing](#testing)
   * [Removed](#removed)
@@ -43,8 +44,6 @@ magnet:?xt=urn:btih:F6AE4B1303E0D800B329F3DDA1170D7E9865D93D&dn=AME_1903_%282020
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Excerp from [Archive.org's](https://archive.org/details/windows-10-ameliorated-1903) explanation regarding Windows 10 AME
 Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively. 
