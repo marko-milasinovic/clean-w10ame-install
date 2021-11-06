@@ -71,6 +71,13 @@ Abbreviations:
 * Freeware - software, most often proprietary, that is distributed at no monetary cost to the end user
 * Shareware - proprietary software which has trial use at little or no cost with usually limited functionality, but which can be upgraded upon payment
 
+## Package managers
+* [Chocolatey](https://chocolatey.org/install) (FOSS) - software management solution
+  * ```
+    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+    ```
+* [Pyhon + pip](https://www.python.org/downloads/windows/) (FOSS) - python with a software management solution
+
 ## Browsers
 * [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
   * as per: https://avoidthehack.com/manually-install-extensions-ungoogled-chromium#1downloadchromiumwebstore
@@ -175,6 +182,10 @@ Abbreviations:
     choco install mpv
     ```
 * [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - video transcoder
+  * [Ruby - chocolatey](https://community.chocolatey.org/packages/ruby) 
+  * ```
+    choco install ruby
+    ```
   * [video_transcoding](https://github.com/donmelton/video_transcoding) (FOSS) - highly efficient transcoding cli for h.264
   * [other_video_transcoding](https://github.com/donmelton/other_video_transcoding) (FOSS) - highly efficient transcoding cli for h.264 to h.265
 * [Dandere2x](https://github.com/akai-katto/dandere2x/releases/latest) (FOSS) - efficient video upscaler that uses waifu2x and video compression technology
