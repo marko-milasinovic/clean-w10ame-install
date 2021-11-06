@@ -21,7 +21,7 @@ Spyware systems, which are abundant in Windows 10 by default, have not been disa
 Final image file size is 5.35 Gb.
 
 ##### Table of Contents
-    * [Credentials](#credentials)
+  * [Credentials](#credentials)
   * [Windows system alterations](#windows-system-alterations)
 - [Program list](#program-list)
   * [Browsers](#browsers)
