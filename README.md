@@ -101,6 +101,8 @@ Abbreviations:
 * [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest) (FOSS) - multifunctional code/text editor
 * [Revo Uninstaller](https://www.revouninstaller.com/start-freeware-download/) (Shareware) - advanced program uninstaller
 * [7-zip with Zstandard](https://github.com/mcmilk/7-Zip-zstd/releases/latest) - file archiver with additional functions (eg. hash verification)
+
+### Optional
 * [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) (Shareware) - general purpose hardware monitoring program
 * [Crystalmark](https://crystalmark.info/en/download/) (FOSS) - benchmark software that measures the transfer speed of media data storage
 * [ffmpeg](https://ffmpeg.org/download.html) (FOSS) - command line multimedia framework (a complete, cross-platform solution to record, convert and stream audio and video)
@@ -111,13 +113,14 @@ Abbreviations:
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) (Propriatery) - Microsoft's advanced monitoring tool that shows real-time file system, Registry and process/thread activity
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) (Propriatery) - shows information about which handles and DLLs processes have opened or loaded
 * [Total Commander](https://www.ghisler.com/download.htm) (Shareware) - tried and true file manager
-* [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf/releases/latest) (FOSS) - multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows 
+
 
 ### Optional
 * [WireShark](https://www.wireshark.org/#download) (FOSS) - network protocol analyzer
 * [Koodo Reader](https://github.com/troyeguo/koodo-reader/releases/latest) (FOSS) - full-featured ebook manager, albeit slightly impractical
 * [Calibre](https://calibre-ebook.com/download_windows) (FOSS) - e-book viewer & manager
- 
+ * [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf/releases/latest) (FOSS) - multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows 
+
 ## Communication
 * [Telegram](https://desktop.telegram.org/) (Shareware) - unsecure chat app with phone contact synchronisation
 * [Discord](https://discord.com/download) (Shareware) - unsecure chat app with chat rooms
@@ -138,7 +141,7 @@ Abbreviations:
 ## Integrated Development Environments (IDE)
 * [IntelliJ Idea](https://www.jetbrains.com/idea/) - for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
 * [WebStorm](https://www.jetbrains.com/webstorm/) - for JavaScript and related technologies
-* [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user) (FOSS\* ) - JavaScript, TypeScript, Node.js (C++, C#, Java, Python, PHP, Go, .NET, Unity)
+* [Visual Studio Code](https://github.com/VSCodium/vscodium/releases/latest) (FOSS) - JavaScript, TypeScript, Node.js (C++, C#, Java, Python, PHP, Go, .NET, Unity)
 
 ### Optional
 * [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
@@ -149,11 +152,11 @@ Abbreviations:
 * [Intel's bluetooth driver](https://www.intel.com/content/www/us/en/support/articles/000005489/wireless/intel-wireless-products.html) - a bluetooth driver
 
 ## Security / Peer clients
-* [Thunderbird](https://www.thunderbird.net/en-US/download/) - an E-Mail client
 * [QBitTorrent](https://www.qbittorrent.org/download.php) - a bittorrent client
+* [SimpleDNSCrypt](https://simplednscrypt.org/) - management tool for configuring the dnscrypt-proxy service (introduces latency)
+* [Thunderbird](https://www.thunderbird.net/en-US/download/) - an E-Mail client
 
 ### Optional
-* [SimpleDNSCrypt](https://simplednscrypt.org/) - management tool for configuring the dnscrypt-proxy service (introduces latency)
 * [WireGuard](https://www.wireguard.com/) - fast, secure vpn tunnel
 * [GNU Privacy Guard](https://gnupg.org/) - free implementation of the OpenPGP standard, that allows you to encrypt and sign your data and communications
 * [PasswordStore](https://www.passwordstore.org/) - by https://www.zx2c4.com/
@@ -181,6 +184,8 @@ Abbreviations:
   * ```
     choco install mpv
     ```
+
+### Optional
 * [Handbrake](https://handbrake.fr/downloads.php) (FOSS) - video transcoder
   * [Ruby - chocolatey](https://community.chocolatey.org/packages/ruby) 
   * ```
@@ -192,7 +197,6 @@ Abbreviations:
 
 ### Optional
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases/latest) (FOSS) - allows recording of a selected area of your screen, as well as edit and save it as a gif or video.
-* [BS Player](http://www.bsplayer.com/bsplayer-english/download.html) (Shareware) - video player with integrated subtitle search
 
 ## Music playback
 * [Clementine](https://github.com/clementine-player/Clementine/releases/latest) (FOSS) - a "winamp" style music player
