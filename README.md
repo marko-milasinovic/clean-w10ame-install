@@ -168,7 +168,10 @@ Abbreviations:
 * [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
 * [OpenCRX](https://github.com/opencrx/opencrx) (FOSS) - Customer relationship management software
 
-## Image manipulation
+## Image manipulation 
+* [qimgv](https://github.com/easymodo/qimgv/releases/latest) (FOSS) - Image viewer
+
+### Optional
 * [Inkscape](https://gitlab.com/inkscape/inkscape) (FOSS) - vector image editor
 * [Waifu2x Caffe](https://github.com/lltcggie/waifu2x-caffe) (FOSS) - image denoiser & upscaler (slow, best used with Nvidia GPU's)
   * [Intel OpenVino](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html) - speeds up Waifu2x Caffe
