@@ -84,6 +84,12 @@ Abbreviations:
 * Windows Features > Disable Internet Explorer
 * PageFile size = 8Gb
 * Edit Power plan > High Performance > 99% max cpu state
+
+
+### Windows services
+ ```net stop wuauserv ```
+  ```sc config wuauserv start= disabled ```
+
 * Start Menu > Services > Windows Update
 ``` net stop wuauserv ```
 ``` sc config wuauserv start= disabled ```
