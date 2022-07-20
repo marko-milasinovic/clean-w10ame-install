@@ -87,9 +87,12 @@ Abbreviations:
 
 
 ### Windows services
- ```net stop wuauserv ```
-  ```sc config wuauserv start= disabled ```
-
+ ```
+ net stop wuauserv 
+ ```
+ ```
+ sc config wuauserv start= disabled
+ ```
 Start Menu > Services > Windows Update > Disable the following:
 ``` net stop wuauserv ```
 ``` sc config wuauserv start= disabled ```
