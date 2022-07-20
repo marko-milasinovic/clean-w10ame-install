@@ -85,6 +85,45 @@ Abbreviations:
 * PageFile size = 8Gb
 * Edit Power plan > High Performance > 99% max cpu state
 
+### File Explorer
+* Go to the Last Active window with a single click 
+> Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+> Right-click on Advanced> New> DWORD (32-bit) Value. Rename it to LastActiveClick
+> Double click on LastActiveClick and change its value to 1
+
+* Disable the LockScreen (Optional)
+> Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+> Right-click on Windows> New> Key, rename it to Personalization
+> Right-click on Personlization> New> DWORD 32. Rename it to NoLockscreen
+> Double-click on it “NoLockscreen” and change the value to 1
+
+* Disable Action Center (Optional)
+> Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
+> Right-click on Windows> New> Key. Rename it to Explorer.
+> Right-click on Explorer> New> DWORD (32-bit) Value. Rename it to DisableNotificationCenter.
+> Double-click on DisableNotificationCenter and change the value to 1.
+
+* [WinTweaker](https://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Freeware) - Windows settings tweaker
+
+* Enable verbose status messages
+> HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+> System entry and then right-click on the white space in the right panel and select New > DWORD (32-bit) Value.
+> verbosestatus = 1
+
+* Apps in the context menu [GeekFlare](https://geekflare.com/windows-11-registry-tweak/)
+> HKEY_CLASSES_ROOT\Directory\Background\shell
+
+* Switch to last opened window
+> HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+> Advanced entry is selected, right-click on the white space in the right panel and select New > DWORD (32-bit) Value.
+> LastActiveClick = 1
+
+* Windows search: [askVG](https://www.askvg.com/collection-of-registry-tweaks-for-windows-7/)
+> HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+> “LinkResolveIgnoreLinkInfo”=dword:00000001
+> “NoResolveSearch”=dword:00000001
+> “NoResolveTrack”=dword:00000001
+> “NoInternetOpenWith”=dword:00000001
 
 ### Windows services
  ```
