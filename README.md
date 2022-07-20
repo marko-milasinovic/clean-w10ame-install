@@ -139,7 +139,7 @@ Abbreviations:
     //Computer Configuration \ Preferences \ Windows Settings \ Registry 
     //HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc
     //value name is Start and please set the value to 4.
-    // Source (technet)[https://social.technet.microsoft.com/Forums/en-US/8706fda2-f7cd-4dab-814b-72283b17c423/how-to-disable-windows-update-medic-service]
+    // Source [technet](https://social.technet.microsoft.com/Forums/en-US/8706fda2-f7cd-4dab-814b-72283b17c423/how-to-disable-windows-update-medic-service)
     * 
 ## Bios Configs
 * Fixed ram speed / XMP
