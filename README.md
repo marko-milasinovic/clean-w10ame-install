@@ -84,8 +84,10 @@ Abbreviations:
 * Windows Features > Disable Internet Explorer
 * PageFile size = 8Gb
 * Edit Power plan > High Performance > 99% max cpu state
+> net stop wuauserv
 
 ## Bios Configs
+* Fixed ram speed / XMP
 * TBD
 
 ## Browsers
