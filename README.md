@@ -84,8 +84,63 @@ Abbreviations:
 * Windows Features > Disable Internet Explorer
 * PageFile size = 8Gb
 * Edit Power plan > High Performance > 99% max cpu state
-> net stop wuauserv
-
+* Start Menu > Services > Windows Update
+``` net stop wuauserv ```
+``` sc config wuauserv start= disabled ```
+  * Disable the following:
+    * Xbox Live Networking Service (XboxNetApiSvc)
+    * Xbox Accessory Management Service (XboxGipSvc)
+    * Xbox Live Game Save (XblGameSave)
+    * Xbox Live Auth Manager (XblAuthManager)
+    * autotimesvc
+    * DiagTrack
+    * dmwappushservice
+    * FrameServer
+    * icssvc
+    * InstallService
+    * MapsBroker
+    * PhoneSvc
+    * RasMan
+    * RemoteAccess
+    * RemoteRegistry
+    * SessionEnv
+    * SysMain ?
+    * UevAgentService
+    * UmRdpService
+    * WalletService
+    * WbioSrvc
+    * wisvc
+    * WMPNetworkSvc
+    * WpcMonSvc
+    * WSearch
+    * ALG ?
+    * AppReadiness ?
+    * BITS
+    * Microsoft (R) Diagnostics Hub Standard Collector Service (diagnosticshub.standardcollector.service)
+    * Enterprise App Management Service (EntAppSvc)
+    * MicrosoftEdgeElevationService
+    * MixedRealityOpenXRSvc
+    * Windows Perception Simulation Service (perceptionsimulation)
+    * Performance Logs & Alerts (pla)
+    * RetailDemo
+    * Windows Backup (SDRSVC)
+    * Radio Management Service (RmSvc)
+    * Spatial Data Service (SharedRealitySvc)
+    * Smart Card Removal Policy (SCPolicySvc)
+    * Microsoft Storage Spaces SMP (smphost)
+    * ??? Windows Defender Advanced Threat Protection Service (Sense)
+    * Microsoft Software Shadow Copy Provider (swprv)
+    * Telephony (TapiSrv)
+    * Remote Desktop Services (TermService)
+    * ?????? Web Account Manager (TokenBroker)
+    * Volume Shadow Copy (VSS)
+    * Windows Update Medic Service (WaaSMedicSvc) 
+    //added in update 1803 
+    //Computer Configuration \ Preferences \ Windows Settings \ Registry 
+    //HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc
+    //value name is Start and please set the value to 4.
+    // Source (technet)[https://social.technet.microsoft.com/Forums/en-US/8706fda2-f7cd-4dab-814b-72283b17c423/how-to-disable-windows-update-medic-service]
+    * 
 ## Bios Configs
 * Fixed ram speed / XMP
 * TBD
