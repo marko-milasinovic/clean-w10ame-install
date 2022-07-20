@@ -146,7 +146,22 @@ Abbreviations:
     //HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc
     //value name is Start and please set the value to 4.
     // Source [technet](https://social.technet.microsoft.com/Forums/en-US/8706fda2-f7cd-4dab-814b-72283b17c423/how-to-disable-windows-update-medic-service)
-    * 
+    * BitLocker Drive Encryption Service (BDESVC)
+    * Offline Files (CscService)
+    * Microsoft Edge Update Service (edgeupdatem)
+    * IP Translation Configuration Service (IpxlatCfgSvc)
+    * Geolocation Service (lfsvc)
+    * Microsoft Passport (NgcSvc)
+    * Microsoft Passport Container (NgcCtnrSvc)
+    * Windows PushToInstall Service (PushToInstall)
+    * Microsoft Windows SMS Router Service (SmsRouter)
+    * Windows Perception Service (spectrum)
+    * Touch Keyboard and Handwriting Panel Service (TabletInputService)
+    * Microsoft Account Sign-in Assistant (wlidsvc)
+    * Windows Update (wuauserv)
+
+
+    * LGHUB Updater Service (LGHUBUpdaterService)
 ## Bios Configs
 * Fixed ram speed / XMP
 * TBD
