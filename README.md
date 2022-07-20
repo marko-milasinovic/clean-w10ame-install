@@ -78,6 +78,16 @@ Abbreviations:
     ```
 * [Pyhon + pip](https://www.python.org/downloads/windows/) (FOSS) - python with a software management solution
 
+## Windows configs
+* System configuration > Microsoft Store install service > Disable
+* Task Scheduler > Disable Edge
+* Windows Features > Disable Internet Explorer
+* PageFile size = 8Gb
+* Edit Power plan > High Performance > 99% max cpu state
+
+## Bios Configs
+* TBD
+
 ## Browsers
 * [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine [versions 100.0.4896.60 / 199.0.4844.82-1]
   * as per: https://avoidthehack.com/manually-install-extensions-ungoogled-chromium#1downloadchromiumwebstore
