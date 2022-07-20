@@ -270,6 +270,7 @@ Start Menu > Services > Windows Update > Disable the following:
 * [IntelliJ Idea](https://www.jetbrains.com/idea/) - for Java, with assistance for a variety of other languages such as SQL, JPQL, HTML, JavaScript
 * [WebStorm](https://www.jetbrains.com/webstorm/) - for JavaScript and related technologies
 * [Visual Studio Code](https://github.com/VSCodium/vscodium/releases/latest) (FOSS) - JavaScript, TypeScript, Node.js (C++, C#, Java, Python, PHP, Go, .NET, Unity)
+* [Eclipse](https://www.eclipse.org/downloads/packages/release) - oxygen release?
 
 ### Optional
 * [Arduino](https://www.arduino.cc/en/software) (FOSS) - Arduino Software IDE
