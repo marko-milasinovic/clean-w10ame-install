@@ -79,7 +79,7 @@ Abbreviations:
 * [Pyhon + pip](https://www.python.org/downloads/windows/) (FOSS) - python with a software management solution
 
 ## Browsers
-* [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine
+* [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) (FOSS) - chromium browser without Google's libraries, based on the Chromium engine [versions 100.0.4896.60 / 199.0.4844.82-1]
   * as per: https://avoidthehack.com/manually-install-extensions-ungoogled-chromium#1downloadchromiumwebstore
   * download https://github.com/NeverDecaf/chromium-web-store/releases
   * change chrome://flags/#extension-mime-request-handling to "Always prompt for ins"
@@ -101,6 +101,7 @@ Abbreviations:
 * [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest) (FOSS) - multifunctional code/text editor
 * [Revo Uninstaller](https://www.revouninstaller.com/start-freeware-download/) (Shareware) - advanced program uninstaller
 * [7-zip with Zstandard](https://github.com/mcmilk/7-Zip-zstd/releases/latest) - file archiver with additional functions (eg. hash verification)
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) (Microsoft) - Usefull windows tools
 
 ### Optional
 * [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) (Shareware) - general purpose hardware monitoring program
